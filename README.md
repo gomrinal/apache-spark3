@@ -9,3 +9,12 @@
 3. Process: Data Processing and Transformation
 4. Consume: Data Access and retrieval
 ```
+- Apache Spark
+```
+1. REPL - command line interface
+2. PyCharm
+3. Databricks Notebook
+4. Jupyter Notebooks
+5. AWS EMR, Google Dataproc, Azure HD Insights
+
+```
